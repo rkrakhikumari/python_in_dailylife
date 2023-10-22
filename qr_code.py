@@ -1,6 +1,4 @@
-#import qrcode as qr
-#img = qr.make("https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=10268s")
-#img.save("code_with_mosh_youtube.png")
+
 
 import qrcode
 from PIL import Image
